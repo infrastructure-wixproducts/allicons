@@ -2,7 +2,7 @@ allicons
 ========
 
 allicons is a lightweight tool, written in Python which will create iOS, Android, Windows, BlackBerry and Chrome's icons in few seconds.
-<hr />
+
 ###### Requirements
 allicons was built upon [Python Image Library (PIL)](https://github.com/python-imaging/Pillow). To get allicons working you need to install PIL or Pillow (recommended). Here is the full installation guide: http://pillow.readthedocs.org/en/latest/installation.html
 ###### Installation
