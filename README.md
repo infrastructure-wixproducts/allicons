@@ -16,6 +16,7 @@ Create default.png where allicons.py is located and run
 
     ./allicons.py
 then you will have 5 platform icons in their respective directories
+
 OR you can also have platform specific icons by creating [platform].png for each platform. For example, ios.png, android.png, blackberry.png, windows.png and chrome.png (make sure there is no default.png while you go this way because default.png supersede this option). Once you have platform specific icon files, run
 
     ./allicons.py
