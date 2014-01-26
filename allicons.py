@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os, PIL
 
 from PIL import Image
